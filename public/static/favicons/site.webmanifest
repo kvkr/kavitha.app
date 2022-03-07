@@ -1,6 +1,6 @@
 {
-  "name": "Boopathi's blog",
-  "short_name": "boopathi.blog",
+  "name": "Kavitha's portfolio",
+  "short_name": "kavitha.app",
   "icons": [
     {
       "src": "/android-chrome-96x96.png",
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#0ea5e9",
+  "theme_color": "#06b6d4",
   "background_color": "#111827",
   "display": "standalone"
 }

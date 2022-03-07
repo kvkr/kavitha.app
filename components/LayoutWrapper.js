@@ -6,12 +6,10 @@ import SectionContainer from './SectionContainer'
 import Footer from './Footer'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
-import Wave from './Wave'
 
 const LayoutWrapper = ({ children }) => {
   return (
     <>
-      <Wave />
       <SectionContainer>
         <div className="flex h-screen flex-col justify-between">
           <header id="page-top-header" className="flex items-center justify-between py-10">
@@ -22,7 +20,7 @@ const LayoutWrapper = ({ children }) => {
                     <Logo />
                   </div>
                   {typeof siteMetadata.headerTitle === 'string' ? (
-                    <div className="hidden text-2xl font-semibold sm:block">
+                    <div className="hidden self-end text-2xl font-semibold sm:block">
                       {siteMetadata.headerTitle}
                     </div>
                   ) : (

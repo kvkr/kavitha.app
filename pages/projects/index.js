@@ -2,34 +2,36 @@ import { getAllFilesFrontMatter } from '@/lib/mdx'
 import siteMetadata from '@/data/siteMetadata'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
-import Intro from '@/components/Intro'
 
-const PROJECTS_IN_PAGE = 5
+const PROJECTS_PER_PAGE = 1000
 
 export async function getStaticProps() {
-  const projects = (await getAllFilesFrontMatter('projects')).slice(0, PROJECTS_IN_PAGE)
-  return { props: { projects } }
+  const posts = await getAllFilesFrontMatter('projects')
+  const initialDisplayProjects = posts.slice(0, PROJECTS_PER_PAGE)
+  const pagination = {
+    currentPage: 1,
+    totalPages: Math.ceil(posts.length / PROJECTS_PER_PAGE),
+  }
+
+  return { props: { initialDisplayProjects, posts, pagination } }
 }
 
-export default function Projects({ projects }) {
+export default function Projects({ initialDisplayProjects, posts, pagination }) {
   return (
     <>
       <PageSEO title={`Projects - ${siteMetadata.author}`} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        <Intro
-          title={siteMetadata.mastheadTitle}
-          description={siteMetadata.mastheadDescription}
-          imageSrc={siteMetadata.mastheadImage}
-        ></Intro>
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            Showcase
+            Projects
           </h1>
-          <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">My top projects</p>
+          <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
+            Showcase your projects with a hero image (16 x 9)
+          </p>
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {projects.map((d) => (
+            {initialDisplayProjects.map((d) => (
               <Card
                 key={d.title}
                 title={d.title}

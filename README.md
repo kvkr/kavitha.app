@@ -1,4 +1,4 @@
-![boopathi-blog-banner](/public/static/images/twitter-card.png)
+![kavitha-app-banner](/public/static/images/twitter-card.png)
 
 # My personal blog
 

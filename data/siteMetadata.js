@@ -1,21 +1,24 @@
 const siteMetadata = {
-  title: 'An infatuation for breaking things',
-  author: 'Boopathi Rajaa',
-  headerTitle: 'An infatuation for breaking things',
-  description:
-    'Notes and Scribblings from a web developer with unhealthy interests in JavaScript, GraphQL, and others',
+  title: 'My portfolio',
+  author: 'Kavitha Krishnappa',
+  headerTitle: 'UX Research & Scribblings',
+  description: 'My projects, work, portfolio, and scribblings',
+  mastheadImage: '/static/images/avatar.png',
+  mastheadTitle: 'SOLVING USER PROBLEMS...',
+  mastheadDescription:
+    'Passionate about building meaningful experiences, I believe in the craft of immersive user-centric process to design and develop great products & services.',
   language: 'en-us',
-  siteUrl: 'https://boopathi.blog',
-  siteRepo: 'https://github.com/boopathi/blog-2',
+  siteUrl: 'https://kavitha.app',
+  siteRepo: 'https://github.com/kvkr/kavitha.app',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'me@boopathi.blog',
-  github: 'https://github.com/boopathi',
-  twitter: 'https://twitter.com/heisenbugger',
+  email: 'me@kavitha.app',
+  github: 'https://github.com/kvkr',
+  twitter: 'https://twitter.com/kavithak92',
   locale: 'en-US',
   analytics: {
-    googleAnalyticsId: 'UA-22586438-7', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: 'TODO', // e.g. UA-000000-2 or G-XXXXXXX
   },
   newsletter: {},
   comment: {
