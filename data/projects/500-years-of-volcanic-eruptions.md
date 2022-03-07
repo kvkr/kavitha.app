@@ -11,4 +11,4 @@ images:
   - /static/project-cover/500-years-of-volcanic-eruptions.png
 ---
 
-Lockscreen product details
+![](/static/projects/500-years-of-volcanic-eruptions/500-years-of-volcanic-eruptions-content.png)

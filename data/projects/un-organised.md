@@ -11,42 +11,22 @@ images:
   - /static/project-cover/un-organised.png
 ---
 
-## Heading 2 - 1
+## UN ORGANISED
 
-## Heading 2 - 2
+Heuristic Evaluation, Prototyping, Usability Studies
 
-## Heading 2 - 3
+### Brief
 
-## Heading 2 - 4
+This project intention was to inquire the needs, wants, aspirations, experiences and challenges the Unorganised sector (casual labourers, mostly migrant workers from rural places) face today at the Bangalore Market Area.  
+For more research and documentation click here.
 
-## Heading 2 - 5
+|              |                                                                                                |
+| ------------ | ---------------------------------------------------------------------------------------------- |
+| Location     | Bangalore K.R. Market (Pete)                                                                   |
+| Methods      | Ethnography, Immersive Studies, Shadowing, Semi-Structured Interviews, Workshops, Card Sorting |
+| Duration     | 4 Months                                                                                       |
+| Deliverables | Empathy Map, Research Document, Field Stories, Fictional Narrative                             |
 
-## Heading 2 - 6
+[Read more on issuu.com](https://issuu.com/nid410/docs/beedi_badi_vyapaari_illustartions)
 
-## Heading 2 - 7
-
-## Heading 2 - 8
-
-## Heading 2 - 9
-
-## Heading 2 - 10
-
-## Heading 2 - 11
-
-## Heading 2 - 12
-
-## Heading 2 - 13
-
-## Heading 2 - 14
-
-## Heading 2 - 15
-
-## Heading 2 - 16
-
-## Heading 2 - 17
-
-## Heading 2 - 18
-
-## Heading 2 - 19
-
-## Heading 2 - 20
+[![](/static/projects/un-organised/un-organised.jpeg)](https://issuu.com/nid410/docs/beedi_badi_vyapaari_illustartions)

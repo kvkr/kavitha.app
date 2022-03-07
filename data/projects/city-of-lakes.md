@@ -10,4 +10,4 @@ images:
   - /static/project-cover/city-of-lakes.png
 ---
 
-Lockscreen product details
+![](/static/projects/city-of-lakes/city-of-lakes-content.png)

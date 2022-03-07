@@ -6,10 +6,7 @@ import CustomLink from './Link'
 import TOCInline from './TOCInline'
 import Pre from './Pre'
 import { BlogNewsletterForm } from './NewsletterForm'
-
-function ListGallery({ children }) {
-  return <div className="flex">{children}</div>
-}
+import { ListGallery } from './ListGallery'
 
 export const MDXComponents = {
   Image,
