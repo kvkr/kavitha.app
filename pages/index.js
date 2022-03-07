@@ -4,7 +4,7 @@ import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 import Intro from '@/components/Intro'
 
-const PROJECTS_IN_PAGE = 5
+const PROJECTS_IN_PAGE = 1000
 
 export async function getStaticProps() {
   const projects = (await getAllFilesFrontMatter('projects')).slice(0, PROJECTS_IN_PAGE)
