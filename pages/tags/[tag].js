@@ -1,3 +1,4 @@
+import Card from '@/components/Card'
 import { TagSEO } from '@/components/SEO'
 import siteMetadata from '@/data/siteMetadata'
 import ListLayout from '@/layouts/ListLayout'
@@ -12,9 +13,10 @@ const root = process.cwd()
 
 export async function getStaticPaths() {
   const tags = await getAllTags('blog')
+  const projectsTags = await getAllTags('projects')
 
   return {
-    paths: Object.keys(tags).map((tag) => ({
+    paths: [...Object.keys(tags), ...Object.keys(projectsTags)].map((tag) => ({
       params: {
         tag,
       },
@@ -25,8 +27,13 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const allPosts = await getAllFilesFrontMatter('blog')
+  const allProjects = await getAllFilesFrontMatter('projects')
   const filteredPosts = allPosts.filter(
     (post) => post.draft !== true && post.tags.map((t) => kebabCase(t)).includes(params.tag)
+  )
+  const filteredProjects = allProjects.filter(
+    (project) =>
+      project.draft !== true && project.tags.map((t) => kebabCase(t)).includes(params.tag)
   )
 
   // rss
@@ -37,19 +44,40 @@ export async function getStaticProps({ params }) {
     fs.writeFileSync(path.join(rssPath, 'feed.xml'), rss)
   }
 
-  return { props: { posts: filteredPosts, tag: params.tag } }
+  return { props: { posts: filteredPosts, projects: filteredProjects, tag: params.tag } }
 }
 
-export default function Tag({ posts, tag }) {
+export default function Tag({ posts, projects, tag }) {
   // Capitalize first letter and convert space to dash
-  const title = tag[0].toUpperCase() + tag.split(' ').join('-').slice(1)
+  const title = tag
   return (
     <>
       <TagSEO
         title={`${tag} - ${siteMetadata.author}`}
         description={`${tag} tags - ${siteMetadata.author}`}
       />
-      <ListLayout posts={posts} title={title} />
+      <h1 className="text-center text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+        #{title}
+      </h1>
+
+      <h2 className="mt-10 text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+        Projects
+      </h2>
+      {!projects.length && 'No projects found.'}
+      <div className="container py-12">
+        <div className="-m-4 flex flex-wrap">
+          {projects.map((d) => (
+            <Card
+              key={d.title}
+              title={d.title}
+              description={d.description}
+              imgSrc={d.images[0]}
+              href={`/projects/${d.slug}`}
+            />
+          ))}
+        </div>
+      </div>
+      <ListLayout posts={posts} title="Posts" />
     </>
   )
 }

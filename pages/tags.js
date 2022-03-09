@@ -7,11 +7,24 @@ import kebabCase from '@/lib/utils/kebabCase'
 
 export async function getStaticProps() {
   const tags = await getAllTags('blog')
+  const projectsTags = await getAllTags('projects')
+
+  for (let tag in projectsTags) {
+    if (hop(tags, tag)) {
+      tags[tag] += projectsTags[tag]
+    } else {
+      tags[tag] = projectsTags[tag]
+    }
+  }
 
   return { props: { tags } }
 }
 
-export default function Tags({ tags }) {
+function hop(o, key) {
+  return Object.prototype.hasOwnProperty.call(o, key)
+}
+
+export default function Tags({ tags, projectsTags }) {
   const sortedTags = Object.keys(tags).sort((a, b) => tags[b] - tags[a])
   return (
     <>
