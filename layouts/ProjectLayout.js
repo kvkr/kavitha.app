@@ -130,7 +130,7 @@ export default function ProjectLayout({ frontMatter, authorDetails, next, prev, 
                           Previous Project
                         </h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
-                          <Link href={`/blog/${prev.slug}`}>{prev.title}</Link>
+                          <Link href={`/projects/${prev.slug}`}>{prev.title}</Link>
                         </div>
                       </div>
                     )}
@@ -140,7 +140,7 @@ export default function ProjectLayout({ frontMatter, authorDetails, next, prev, 
                           Next Project
                         </h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
-                          <Link href={`/blog/${next.slug}`}>{next.title}</Link>
+                          <Link href={`/projects/${next.slug}`}>{next.title}</Link>
                         </div>
                       </div>
                     )}
