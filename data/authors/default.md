@@ -19,12 +19,12 @@ If this sounds interesting to you, let's chat :)
 
 ### Work History
 
-|                                |                                           |
-| ------------------------------ | ----------------------------------------- |
-| Lead UX Researcher (Freelance) | Money View, India (2 Months )             |
-| UX Researcher                  | Rupeek Fintech, India (1yr 7 Mos )        |
-| UX Researcher                  | Glance Experience, India (7 Mos )         |
-| Business Technology Analyst    | Deloitte Consulting, India (2 yrs 9 Mos ) |
+|                             |                                          |
+| --------------------------- | ---------------------------------------- |
+| Lead UX Researcher          | Money View, India (2 Months)             |
+| UX Researcher               | Rupeek Fintech, India (1yr 7 Mos)        |
+| UX Researcher               | Glance Experience, India (7 Mos)         |
+| Business Technology Analyst | Deloitte Consulting, India (2 yrs 9 Mos) |
 
 ### Education
 
