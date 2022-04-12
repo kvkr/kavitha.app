@@ -6,7 +6,7 @@ const siteMetadata = {
   mastheadImage: '/static/images/avatar.png',
   mastheadTitle: 'Hi!',
   mastheadDescription:
-    'Passionate about building meaningful experiences, I believe in the craft of immersive user-centric process to design and develop great products & services.',
+    'I believe in the craft of immersive user-centric process to design products & services.',
   language: 'en-us',
   siteUrl: 'https://kavitha.app',
   siteRepo: 'https://github.com/kvkr/kavitha.app',
