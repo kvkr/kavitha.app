@@ -19,17 +19,17 @@ If this sounds interesting to you, let's chat :)
 
 ### Work History
 
-|                                |                            |             |
-| ------------------------------ | -------------------------- | ----------- |
-| Lead UX Researcher (Freelance) | Money View, India          | 2 Months    |
-| UX Researcher                  | Rupeek Fintech, India      | 1yr 7 Mos   |
-| UX Researcher                  | Glance Experience, India   | 7 Mos       |
-| Business Technology Analyst    | Deloitte Consulting, India | 2 yrs 9 Mos |
+|                                |                                           |
+| ------------------------------ | ----------------------------------------- |
+| Lead UX Researcher (Freelance) | Money View, India (2 Months )             |
+| UX Researcher                  | Rupeek Fintech, India (1yr 7 Mos )        |
+| UX Researcher                  | Glance Experience, India (7 Mos )         |
+| Business Technology Analyst    | Deloitte Consulting, India (2 yrs 9 Mos ) |
 
 ### Education
 
-|                          |                                                          |             |
-| ------------------------ | -------------------------------------------------------- | ----------- |
-| Masters of Design        | National Institute of Design, India                      | 2017 - 2019 |
-| Masters of Design        | Srishti Institute of Art, Design and Technology, India   | 2016 - 2017 |
-| Bachelors of Engineering | National Institute of Technology, Tiruchirappalli, India | 2009 - 2013 |
+|                          |                                                                        |
+| ------------------------ | ---------------------------------------------------------------------- |
+| Masters of Design        | National Institute of Design, India (2017 - 2019)                      |
+| Masters of Design        | Srishti Institute of Art, Design and Technology, India (2016 - 2017)   |
+| Bachelors of Engineering | National Institute of Technology, Tiruchirappalli, India (2009 - 2013) |
