@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'User Experience',
   description: 'My projects, work, portfolio, and scribblings',
   mastheadImage: '/static/images/avatar.png',
-  mastheadTitle: 'SOLVING USER PROBLEMS...',
+  mastheadTitle: 'Hi!',
   mastheadDescription:
     'Passionate about building meaningful experiences, I believe in the craft of immersive user-centric process to design and develop great products & services.',
   language: 'en-us',
