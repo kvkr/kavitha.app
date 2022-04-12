@@ -17,7 +17,7 @@ When I am not working, I am either sketching portraits or learning a new languag
 
 If this sounds interesting to you, let's chat :)
 
-Work History
+### Work History
 
 - User Experience Researcher at Rupeek Fintech
   02/2020 - 09/2021
@@ -28,7 +28,7 @@ Work History
 - Business Technology Analyst (SAP) at Deloitte India (Offices of the US)
   08/2013 - 05/2016
 
-Education
+### Education
 
 National Institute of Design
 Master's degree, Information Design, 2017 - 2019
