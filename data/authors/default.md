@@ -4,7 +4,7 @@ avatar: /static/images/avatar.png
 occupation: UX Researcher
 email: me@kavitha.app
 github: https://github.com/kvkr
-linkedin: https://www.linkedin.com/in/kavitha-krishnappa-20961964/
+linkedin: https://linkedin.com/in/kavitha-krishnappa-20961964/
 ---
 
 Dear reader,
@@ -19,7 +19,7 @@ If this sounds interesting to you, let's chat :)
 
 ### Work History
 
-|                   |                                |
+|                   |                                |                            |
 | ----------------- | ------------------------------ | -------------------------- |
 | 03/2022 - 04/2022 | Lead UX Researcher (Freelance) | Money View, India          |
 | 02/2020 - 09/2021 | UX Researcher                  | Rupeek Fintech, India      |
