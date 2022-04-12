@@ -24,12 +24,12 @@ If this sounds interesting to you, let's chat :)
 | 03/2022 - 04/2022 | Lead UX Researcher (Freelance) | Money View, India          |
 | 02/2020 - 09/2021 | UX Researcher                  | Rupeek Fintech, India      |
 | 05/2019 - 11/2019 | UX Researcher                  | Glance Experience, India   |
-| 05/2019 - 11/2019 | Business Technology Analyst    | Deloitte Consulting, India |
+| 08/2013 - 05/2016 | Business Technology Analyst    | Deloitte Consulting, India |
 
 ### Education
 
-|             |                                                        |
-| ----------- | ------------------------------------------------------ | ------------------------------------------------- |
-| 2017 - 2019 | Master's, Information Design                           | National Institute of Design                      |
-| 2016 - 2017 | Master's, Human Centred Design                         | Srishti Institute of Art, Design and Technology   |
-| 2009 - 2013 | Bachelor's, Electronics and Communications Engineering | National Institute of Technology, Tiruchirappalli |
+|             |                          |                                                          |
+| ----------- | ------------------------ | -------------------------------------------------------- |
+| 2017 - 2019 | Masters of Design        | National Institute of Design, India                      |
+| 2016 - 2017 | Masters of Design        | Srishti Institute of Art, Design and Technology, India   |
+| 2009 - 2013 | Bachelors of Engineering | National Institute of Technology, Tiruchirappalli, India |
