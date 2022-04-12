@@ -19,22 +19,17 @@ If this sounds interesting to you, let's chat :)
 
 ### Work History
 
-- User Experience Researcher at Rupeek Fintech
-  02/2020 - 09/2021
-
-- User Experience Researcher at Glance
-  05/2019 - 11/2019
-
-- Business Technology Analyst (SAP) at Deloitte India (Offices of the US)
-  08/2013 - 05/2016
+|                   |                                |
+| ----------------- | ------------------------------ | -------------------------- |
+| 03/2022 - 04/2022 | Lead UX Researcher (Freelance) | Money View, India          |
+| 02/2020 - 09/2021 | UX Researcher                  | Rupeek Fintech, India      |
+| 05/2019 - 11/2019 | UX Researcher                  | Glance Experience, India   |
+| 05/2019 - 11/2019 | Business Technology Analyst    | Deloitte Consulting, India |
 
 ### Education
 
-National Institute of Design
-Master's degree, Information Design, 2017 - 2019
-
-Srishti Institute of Art, Design and Technology
-Human Centred Design, 2016 - 2017
-
-National Institute of Technology, Tiruchirappalli
-Electrical, Electronics and Communications Engineering, 2009 - 2013
+|             |                                                        |
+| ----------- | ------------------------------------------------------ | ------------------------------------------------- |
+| 2017 - 2019 | Master's, Information Design                           | National Institute of Design                      |
+| 2016 - 2017 | Master's, Human Centred Design                         | Srishti Institute of Art, Design and Technology   |
+| 2009 - 2013 | Bachelor's, Electronics and Communications Engineering | National Institute of Technology, Tiruchirappalli |
