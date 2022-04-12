@@ -28,8 +28,8 @@ If this sounds interesting to you, let's chat :)
 
 ### Education
 
-|                          |                                                                        |
-| ------------------------ | ---------------------------------------------------------------------- |
-| Masters of Design        | National Institute of Design, India (2017 - 2019)                      |
-| Masters of Design        | Srishti Institute of Art, Design and Technology, India (2016 - 2017)   |
-| Bachelors of Engineering | National Institute of Technology, Tiruchirappalli, India (2009 - 2013) |
+|                         |                                                                        |
+| ----------------------- | ---------------------------------------------------------------------- |
+| Masters of Design       | National Institute of Design, India (2017 - 2019)                      |
+| Masters of Design       | Srishti Institute of Art, Design and Technology, India (2016 - 2017)   |
+| Bachelors of Technology | National Institute of Technology, Tiruchirappalli, India (2009 - 2013) |
