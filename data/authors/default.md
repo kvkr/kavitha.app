@@ -13,7 +13,7 @@ I'm Kavitha Krishnappa, Analyst turned UX Researcher.
 With 5+ yrs of work experience, I use stories(mostly :P) & numbers to make a case for better user experience.
 A strong advocate for user-centered approach, I strive to bring a disciplined mixed methods approach to get closer to the truth through effective collaboration.
 
-When I am not working, I am either sketching portraits or learning a new language, or travelling.
+Besides UX, you may also find me sketching portraits, learning new languages, or travelling.
 
 If this sounds interesting to you, let's chat :)
 
