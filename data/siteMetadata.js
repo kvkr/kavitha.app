@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'My portfolio',
   author: 'Kavitha Krishnappa',
-  headerTitle: 'UX Research & Scribblings',
+  headerTitle: 'User Experience',
   description: 'My projects, work, portfolio, and scribblings',
   mastheadImage: '/static/images/avatar.png',
   mastheadTitle: 'SOLVING USER PROBLEMS...',
