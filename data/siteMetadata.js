@@ -6,7 +6,7 @@ const siteMetadata = {
   mastheadImage: '/static/images/avatar.png',
   mastheadTitle: 'Hi!',
   mastheadDescription:
-    'I am into designing meaningful experiences using immersive user-centric approach.',
+    ' I enjoy UX Research, listen to human stories & build meaningful experiences. Numbers tell stories too, Data visualisation is my hobby.',
   language: 'en-us',
   siteUrl: 'https://kavitha.app',
   siteRepo: 'https://github.com/kvkr/kavitha.app',
