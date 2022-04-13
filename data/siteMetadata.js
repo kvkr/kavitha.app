@@ -6,7 +6,7 @@ const siteMetadata = {
   mastheadImage: '/static/images/avatar.png',
   mastheadTitle: 'Hello!',
   mastheadDescription:
-    ' As a UX Researcher, I listen to people & their stories. Numbers can tell stories too, Data Visualisation is a hobby.',
+    ' As a UX Researcher, I listen to people & their stories. Data Visualisation is my hobby. Numbers can tell stories too.',
   language: 'en-us',
   siteUrl: 'https://kavitha.app',
   siteRepo: 'https://github.com/kvkr/kavitha.app',
