@@ -3,9 +3,10 @@ import siteMetadata from '@/data/siteMetadata'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 import Intro from '@/components/Intro'
+import MastheadDescription from '@/components/MastheadDescription'
 
-export const PROJECTS_IN_PAGE = 100
-export const POSTS_PER_PAGE = 100
+export const PROJECTS_IN_PAGE = 3
+export const POSTS_PER_PAGE = 3
 
 export async function getStaticProps() {
   const projects = (await getAllFilesFrontMatter('projects')).slice(0, PROJECTS_IN_PAGE)
@@ -19,7 +20,7 @@ export default function Projects({ projects }) {
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <Intro
           title={siteMetadata.mastheadTitle}
-          description={siteMetadata.mastheadDescription}
+          description={<MastheadDescription />}
           imageSrc={siteMetadata.mastheadImage}
         ></Intro>
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">

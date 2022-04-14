@@ -3,7 +3,7 @@ title: Creating user artefacts for lockscreen experience
 date: '2010-03-31'
 description: |
   UX Research, Design Research
-draft: false
+draft: true
 tags:
   - UX Research
   - Design Research
