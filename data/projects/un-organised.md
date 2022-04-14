@@ -2,10 +2,10 @@
 title: Un Organised
 date: '2019-03-28'
 description: |
-  Ethnographic Design, Information Design
+  Ethnography, Information Design
 draft: false
 tags:
-  - Ethnographic Design
+  - Ethnography
   - Information Design
 images:
   - /static/project-cover/un-organised.png
@@ -13,7 +13,7 @@ images:
 
 ## UN ORGANISED
 
-Heuristic Evaluation, Prototyping, Usability Studies
+Ethnography, Shadowing, User Interviews
 
 ### Brief
 
