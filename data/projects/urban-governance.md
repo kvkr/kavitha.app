@@ -2,9 +2,10 @@
 title: Enabling Citizen Participation
 date: '2019-03-30'
 description: |
-  System Thinking, UX Research, UI/UX
+System map using exploratory research & ideate multiple solutions for influencing change.
 draft: false
 tags:
+  - Design Thinking
   - System Thinking
   - UX Research
   - UI/UX
@@ -12,7 +13,7 @@ images:
   - /static/project-cover/urban-governance.png
 ---
 
-## System Thinking, UX Research, UI/UX
+## Urban Governance
 
 The prompt for this project was my volunteer experience for on-going public strike against the flyover that would demolish so many trees in the city.  After some initial conversations with few activists, I chose to work on this topic of urban governance for a studio course to apply system thinking principles to design.
 
