@@ -1,5 +1,5 @@
 ---
-title: Urban Governance
+title: Enabling Citizen Participation
 date: '2019-03-30'
 description: |
   System Thinking, UX Research, UI/UX
