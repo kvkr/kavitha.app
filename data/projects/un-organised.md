@@ -1,5 +1,5 @@
 ---
-title: Un Organised
+title: Field Studies to collect alternate narratives
 date: '2019-03-28'
 description: |
   Ethnography, Information Design
