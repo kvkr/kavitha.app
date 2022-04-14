@@ -42,15 +42,6 @@ Working with various teams at discovery, design and delivery stages of the prod
 | Skills         | Interviewing, Synthesising, Facilitating              |
 | Tools          | Dovetail, Google Sheets & Slides, MIRO, Survey Monkey |
 
-<!-- ### Learnings
-
-Leverage value out of every single user interaction by creating & updating a user insights database
-Research Report is not the end deliverable. Researcher represents the user voice.​​​​​​​
-
-### Challenges
-
-​​​​​​​Limited to few research methodologies owing to long approval processes, lack of any existing framework to reach out to the users and technical difficulties -->
-
 ## 1. Improve Retention
 
 |              |                                                                                              |
