@@ -1,8 +1,8 @@
 ---
-title: Creating user artefacts for a lockscreen experience
+title: Creating user artefacts for lockscreen experience
 date: '2010-03-31'
 description: |
-  As a UX Researcher, I thoroughly enjoyed being all ears to the users and being the voice of the users.
+  UX Researche, Design Research
 draft: false
 tags:
   - UX Research
@@ -27,10 +27,9 @@ Glance is an Innovative product on the lock screen with 45+ millions users, majo
 </ListGallery>
 
 As a UX Researcher, I thoroughly enjoyed being all ears to the users and being the voice of the users.
+Working with various teams at discovery, design and delivery stages of the product cycle. Here is a an overview of some of the work.​​​​​​​
 
 ![](/static/projects/lockscreen-product/discover-design-deliver.png)
-
-Working with various teams at discovery, design and delivery stages of the product cycle. Here is a an overview of some of the work.​​​​​​​
 
 ## Stats
 
