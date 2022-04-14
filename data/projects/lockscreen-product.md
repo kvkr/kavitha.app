@@ -1,5 +1,5 @@
 ---
-title: Improving user retention for a lockscreen experience
+title: Creating user artefacts for a lockscreen experience
 date: '2010-03-31'
 description: |
   As a UX Researcher, I thoroughly enjoyed being all ears to the users and being the voice of the users.
@@ -42,14 +42,14 @@ Working with various teams at discovery, design and delivery stages of the prod
 | Skills         | Interviewing, Synthesising, Facilitating              |
 | Tools          | Dovetail, Google Sheets & Slides, MIRO, Survey Monkey |
 
-### Learnings
+<!-- ### Learnings
 
-Leverage value out of every single user interaction by creating  & updating a user insights database
-Research Report is not the end deliverable. Researcher  represents the user voice.​​​​​​​
+Leverage value out of every single user interaction by creating & updating a user insights database
+Research Report is not the end deliverable. Researcher represents the user voice.​​​​​​​
 
 ### Challenges
 
-​​​​​​​Limited to few research methodologies owing to long approval processes, lack of any existing framework to reach out to the users and technical difficulties
+​​​​​​​Limited to few research methodologies owing to long approval processes, lack of any existing framework to reach out to the users and technical difficulties -->
 
 ## 1. Improve Retention
 
@@ -71,4 +71,4 @@ Design Research for new feature request
 | Team         | Designer, UX Lead, PM                                                                                 |
 | Goal         | Define the user personas for the new feature, Define UX design goals, Validate the designs with users |
 | Methods      | On-Call Interviews, Affinity Mapping, Workshop, Text Analysis, Survey, Field Visits, A/B testing      |
-| Deliverables | Research Report, Personas, User Scenarios, Game Centre Designs                                        |
+| Deliverables | Research Report, Personas, User Scenarios, UT Report for new Designs                                  |
