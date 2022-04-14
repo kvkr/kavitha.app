@@ -2,7 +2,7 @@
 title: Enabling Citizen Participation
 date: '2019-03-30'
 description: |
-System map using exploratory research & ideate multiple solutions for influencing change.
+  System map using exploratory research & ideate multiple solutions for influencing change.
 draft: false
 tags:
   - Design Thinking
