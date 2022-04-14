@@ -1,6 +1,6 @@
 ---
-title: Lockscreen Product
-date: '2019-03-31'
+title: Improving user retention for a lockscreen experience
+date: '2010-03-31'
 description: |
   As a UX Researcher, I thoroughly enjoyed being all ears to the users and being the voice of the users.
 draft: false
