@@ -6,6 +6,7 @@ description: |
 draft: false
 tags:
   - UX Research
+  - Design Research
 images:
   - /static/project-cover/lockscreen-product.png
 ---
