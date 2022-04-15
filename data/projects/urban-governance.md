@@ -15,7 +15,7 @@ images:
 
 ## Urban Governance
 
-The prompt for this project was my volunteer experience for on-going public strike against the flyover that would demolish so many trees in the city.  After some initial conversations with few activists, I chose to work on this topic of urban governance for a studio course to apply system thinking principles to design.
+I was volunteering for an on-going public strike against a flyover that would likely uproot significant trees from the city. After few initial conversations with the activists, I chose the topic of urban governance for the system thinking course.
 
 |              |                                                                                                                     |
 | ------------ | ------------------------------------------------------------------------------------------------------------------- |
@@ -27,8 +27,6 @@ The prompt for this project was my volunteer experience for on-going public str
 ![](/static/projects/urban-governance/01.png)
 
 ## RESEARCH
-
-Click here for complete research documentation
 
 |              |                                                            |
 | ------------ | ---------------------------------------------------------- |
@@ -51,7 +49,7 @@ Click here for complete research documentation
 
 ![](/static/projects/urban-governance/06.png)
 
-### ENABLING CITIZEN PARTICIPATION
+### Enabling Citizen Participation
 
 ![](/static/projects/urban-governance/07.png)
 
