@@ -5,6 +5,7 @@ description: |
   Heuristic Evaluation, Prototyping, Usability studies
 draft: false
 tags:
+  - UX Research
   - Heuristic Evaluation
   - Prototyping
   - Usability studies

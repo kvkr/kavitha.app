@@ -5,6 +5,7 @@ description: |
   Ethnography, Information Design
 draft: false
 tags:
+  - UX Research
   - Ethnography
   - Information Design
 images:

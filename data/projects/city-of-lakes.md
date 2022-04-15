@@ -5,6 +5,7 @@ description: |
   Information Visualization
 draft: false
 tags:
+  - Data visualization
   - Information Visualization
 images:
   - /static/project-cover/city-of-lakes.png
