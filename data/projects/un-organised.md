@@ -1,5 +1,5 @@
 ---
-title: Field Studies to collect alternate narratives
+title: Field Study
 date: '2019-03-28'
 description: |
   Ethnography, Information Design
@@ -12,7 +12,7 @@ images:
   - /static/project-cover/un-organised.png
 ---
 
-## Unpacking the 'Un'Organised sector through Ethnography
+## Unpacking the 'Un'Organised sector by collecting alternate narratives
 
 This project was an inquiry of the needs, wants, aspirations, experiences and challenges the Unorganised sector (casual labourers, mostly migrant workers from rural places) face today at the Bangalore Market Area.  
 For more research and documentation click here.

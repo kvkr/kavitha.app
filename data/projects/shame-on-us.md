@@ -5,7 +5,7 @@ description: |
   Information design for advocacy
 draft: false
 tags:
-  - Data visualization
+  - Data Visualization
   - Information design for advocacy
 images:
   - /static/project-cover/shame-on-us.png
