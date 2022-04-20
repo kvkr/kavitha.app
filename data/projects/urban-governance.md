@@ -1,8 +1,8 @@
 ---
-title: Enabling Citizen Participation
+title: Enabling Participation
 date: '2019-03-30'
 description: |
-  System map using exploratory research & ideate multiple solutions for influencing change.
+  System thinking, User Interviews, Workshops.
 draft: false
 tags:
   - Design Thinking
