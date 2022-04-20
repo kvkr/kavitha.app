@@ -2,7 +2,7 @@
 title: Enabling Participation
 date: '2019-03-30'
 description: |
-  System thinking, User Interviews, Workshops.
+  System thinking, User Interviews.
 draft: false
 tags:
   - Design Thinking
