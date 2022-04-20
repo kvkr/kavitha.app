@@ -1,5 +1,5 @@
 ---
-title: 500 years of Volcanic eruptions
+title: 500 yrs of Eruptions
 date: '2019-03-26'
 description: |
   Data visualization, Data analysis

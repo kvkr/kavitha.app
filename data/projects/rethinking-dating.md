@@ -2,7 +2,7 @@
 title: Rethinking Dating
 date: '2019-03-29'
 description: |
-  Heuristic Evaluation, Prototyping, Usability studies
+  Heuristic Evaluation, Usability Testing
 draft: false
 tags:
   - UX Research
