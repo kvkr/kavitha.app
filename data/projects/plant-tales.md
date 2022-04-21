@@ -1,6 +1,6 @@
 ---
 title: Plant Tales
-date: '2019-03-27'
+date: '2018-03-27'
 description: |
   Field Research, Semiotics
 draft: false
@@ -15,6 +15,7 @@ images:
 ## PLANT TALES
 
 Field Research, Semiotics
+[](../../../../../../_next/image)
 
 ### Brief
 

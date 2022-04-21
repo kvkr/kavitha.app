@@ -1,17 +1,15 @@
 ---
-title: Creating user artefacts for lockscreen experience
-date: '2010-03-31'
+title: UXR @ Glance
+date: '2019-11-31'
 description: |
   UX Research, Design Research
-draft: true
+draft: false
 tags:
   - UX Research
   - Design Research
 images:
   - /static/project-cover/lockscreen-product.png
 ---
-
-## UX Research & Design
 
 Glance is an Innovative product on the lock screen with 45+ millions users, majority comprising the “emergent users” in the Indian market.
 
@@ -30,9 +28,9 @@ Glance is an Innovative product on the lock screen with 45+ millions users, majo
 As a UX Researcher, I thoroughly enjoyed being all ears to the users and being the voice of the users.
 Working with various teams at discovery, design and delivery stages of the product cycle. Here is a an overview of some of the work.​​​​​​​
 
-![](/static/projects/lockscreen-product/discover-design-deliver.png)
+### My Process
 
-## Stats
+![](/static/projects/lockscreen-product/discover-design-deliver.png)
 
 |                |                                                       |
 | -------------- | ----------------------------------------------------- |
@@ -42,24 +40,22 @@ Working with various teams at discovery, design and delivery stages of the prod
 | Skills         | Interviewing, Synthesising, Facilitating              |
 | Tools          | Dovetail, Google Sheets & Slides, MIRO, Survey Monkey |
 
-## 1. Improve Retention
+### Project 1
 
-|              |                                                                                              |
+Uncover insights to Improve Retention
+| | |
 | ------------ | -------------------------------------------------------------------------------------------- |
-| Team         | Designer, Data Analyst, UX Lead, PM                                                          |
-| Goal         | Solve for User Opt Out, Identify user needs and opportunities in product                     |
-| Methods      | On-Call Interviews, Heuristic Evaluation, Affinity Mapping, Workshop, Stakeholder Interviews |
-| Deliverables | Research Report, Provisional Personas, User Journey, Scenario Map, 3 New Design Features     |
+| Team | Designer, Data Analyst, UX Lead, PM |
+| Goal | Solve for User Opt Out, Identify user needs and opportunities in product |
+| Methods | On-Call Interviews, Heuristic Evaluation, Affinity Mapping, Workshop, Stakeholder Interviews |
+| Deliverables | Research Report, Provisional Personas, User Journey, Scenario Map, 3 New Design Features |
 
-### Images
-
-## 2. New product Feature
+### Project 2
 
 Design Research for new feature request
-
-|              |                                                                                                       |
+| | |
 | ------------ | ----------------------------------------------------------------------------------------------------- |
-| Team         | Designer, UX Lead, PM                                                                                 |
-| Goal         | Define the user personas for the new feature, Define UX design goals, Validate the designs with users |
-| Methods      | On-Call Interviews, Affinity Mapping, Workshop, Text Analysis, Survey, Field Visits, A/B testing      |
-| Deliverables | Research Report, Personas, User Scenarios, UT Report for new Designs                                  |
+| Team | Designer, UX Lead, PM |
+| Goal | Define the user personas for the new feature, Define UX design goals, Validate the designs with users |
+| Methods | On-Call Interviews, Affinity Mapping, Workshop, Text Analysis, Survey, Field Visits, A/B testing |
+| Deliverables | Research Report, Personas, User Scenarios, UT Report for new Designs |

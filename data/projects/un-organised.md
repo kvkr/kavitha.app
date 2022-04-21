@@ -1,6 +1,6 @@
 ---
 title: Alternate Narratives
-date: '2019-03-28'
+date: '2019-02-31'
 description: |
   Ethnography, Information Design
 draft: false
@@ -12,13 +12,12 @@ images:
   - /static/project-cover/un-organised.png
 ---
 
-## Unpacking the 'Un'Organised sector by collecting alternate narratives
+Unpacking the 'Un'Organised sector by collecting alternate narratives
 
-This project was an inquiry of the needs, wants, aspirations, experiences and challenges the Unorganised sector (casual labourers, mostly migrant workers from rural places) face today at the Bangalore Market Area.
+This project was an inquiry of the needs, wants, aspirations, experiences and challenges the Unorganised sector (casual labourers, mostly migrant workers from rural places) face today at the Bangalore market area.
 
 |              |                                                                                                |
 | ------------ | ---------------------------------------------------------------------------------------------- |
-| Location     | Bangalore K.R. Market (Pete)                                                                   |
 | Methods      | Ethnography, Immersive Studies, Shadowing, Semi-Structured Interviews, Workshops, Card Sorting |
 | Duration     | 4 Months                                                                                       |
 | Deliverables | Empathy Map, Research Document, Field Stories, Fictional Narrative                             |

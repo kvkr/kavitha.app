@@ -1,6 +1,6 @@
 ---
 title: 500 yrs of Eruptions
-date: '2019-03-26'
+date: '2018-03-26'
 description: |
   Data visualization, Data analysis
 draft: false

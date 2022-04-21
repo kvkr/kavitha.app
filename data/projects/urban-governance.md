@@ -13,7 +13,7 @@ images:
   - /static/project-cover/urban-governance.png
 ---
 
-## Urban Governance
+## Introduction
 
 I was volunteering for an on-going public strike against a flyover that would likely uproot significant trees from the city. After few initial conversations with the activists, I chose the topic of urban governance for the system thinking course.
 
@@ -26,12 +26,14 @@ I was volunteering for an on-going public strike against a flyover that would l
 
 ![](/static/projects/urban-governance/01.png)
 
-## RESEARCH
+## Discover
 
-|              |                                                            |
-| ------------ | ---------------------------------------------------------- |
-| Methods      | Case Studies, Interviews,Workshops, Focus Groups Shadowing |
-| Deliverables | Stakeholder Map, Opportunity Map, Process Map, Persona     |
+During the Discovery phase, our primary goal was to understand the nuances that surrounded this topic. That means interacting with the various stakeholders and gathering the various perspectives.
+
+|              |                                                             |
+| ------------ | ----------------------------------------------------------- |
+| Methods      | Case Studies, Interviews, Workshops, Focus Groups Shadowing |
+| Deliverables | Stakeholder Map, Opportunity Map, Process Map, Persona      |
 
 <ListGallery wbg={true}>
 
@@ -49,7 +51,9 @@ I was volunteering for an on-going public strike against a flyover that would l
 
 ![](/static/projects/urban-governance/06.png)
 
-### Enabling Citizen Participation
+## Define
+
+Once the system map had a shape, the next step was to list down the opportunities, define the scope for the project & identify the key changemakers.
 
 ![](/static/projects/urban-governance/07.png)
 
@@ -71,9 +75,9 @@ I was volunteering for an on-going public strike against a flyover that would l
 
 ![](/static/projects/urban-governance/12.png)
 
-## DESIGN
+## Design
 
-Design a mobile interface that makes it simple to document and disseminate information on ward committee meetings for the citizens.
+A mobile interface was designed that makes it simple to document and disseminate information on ward committee meetings for the citizens.
 
 ![](/static/projects/urban-governance/13.png)
 
@@ -93,16 +97,16 @@ Design a mobile interface that makes it simple to document and disseminate inf
 
 </ListGallery>
 
-#### Wireframe Flow
+Wireframe Flow
 
-##### Flow 1
+Flow 1
 
 ![](/static/projects/urban-governance/18.png)
 
-##### Flow 2
+Flow 2
 
 ![](/static/projects/urban-governance/19.png)
 
-##### Flow 3
+Flow 3
 
 ![](/static/projects/urban-governance/20.png)

@@ -13,19 +13,18 @@ images:
   - /static/project-cover/rethinking-dating.png
 ---
 
-## RETHINKING DATING
-
-Heuristic Evaluation, Prototyping, Usability Studies
+Redesigning an existing dating mobile application
 
 |              |                                                                               |
 | ------------ | ----------------------------------------------------------------------------- |
-| Prompt       | Redesign an existing dating mobile application                                |
-| Methods      | Heuristic Evaluation, Semi-structured Task based User Validation              |
+| Methods      | Heuristic Evaluation, Semi-structured scenaroi based User Validation          |
 | Skills       | Usability Testing, User Interviews, Recruiting & Screening, Paper Prototyping |
 | Deliverables | Research Reports, Low-fidelity Screens                                        |
 | Tools        | Proto.io, Adobe Illustrator, Google Forms                                     |
 
 ![](/static/projects/rethinking-dating/01.png)
+
+### Heuristic Evaluation
 
 <ListGallery wbg={true}>
 
@@ -45,9 +44,9 @@ Heuristic Evaluation, Prototyping, Usability Studies
 
 </ListGallery>
 
-### Concept
+### Concept Development
 
-There were multiple opportunities to re-design the Tinder Application. However, we decided to work on designing an application from the scratch that investigates the user mental modes of online vs offline dating culture in India.
+There were multiple opportunities to re-design the dating Application. However, we decided to design & test an application from the scratch that investigates the user mental modes of online vs offline dating culture in India.
 
 We sketched a few personas and scenarios after initial discussions in class.
 
@@ -129,4 +128,4 @@ We sketched a few personas and scenarios after initial discussions in class.
 
 ![](/static/projects/rethinking-dating/34.png)
 
-A detailed report generated for the validation along with recommended design changes for the next iteration.
+A detailed report with recommended design changes for the next iteration was generated.
