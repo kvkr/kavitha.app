@@ -1,8 +1,8 @@
 ---
-title: UXR @ Glance
+title: Lockscreen Experience
 date: '2019-11-31'
 description: |
-  UX Research, Design Research
+  User Research, Design Research
 draft: false
 tags:
   - UX Research
@@ -32,14 +32,6 @@ Working with various teams at discovery, design and delivery stages of the prod
 
 ![](/static/projects/lockscreen-product/discover-design-deliver.png)
 
-|                |                                                       |
-| -------------- | ----------------------------------------------------- |
-| No of Projects | 2                                                     |
-| Role           | User Research, Design research                        |
-| Users          | Emergent Market (Tier 2 & Tier 3)                     |
-| Skills         | Interviewing, Synthesising, Facilitating              |
-| Tools          | Dovetail, Google Sheets & Slides, MIRO, Survey Monkey |
-
 ### Project 1
 
 Uncover insights to Improve Retention
@@ -48,6 +40,7 @@ Uncover insights to Improve Retention
 | Team | Designer, Data Analyst, UX Lead, PM |
 | Goal | Solve for User Opt Out, Identify user needs and opportunities in product |
 | Methods | On-Call Interviews, Heuristic Evaluation, Affinity Mapping, Workshop, Stakeholder Interviews |
+| Tools | Dovetail, Google Sheets & Slides, MIRO, Survey Monkey |
 | Deliverables | Research Report, Provisional Personas, User Journey, Scenario Map, 3 New Design Features |
 
 ### Project 2
@@ -58,4 +51,5 @@ Design Research for new feature request
 | Team | Designer, UX Lead, PM |
 | Goal | Define the user personas for the new feature, Define UX design goals, Validate the designs with users |
 | Methods | On-Call Interviews, Affinity Mapping, Workshop, Text Analysis, Survey, Field Visits, A/B testing |
+| Tools | Dovetail, Google Sheets & Slides, MIRO, Survey Monkey |
 | Deliverables | Research Report, Personas, User Scenarios, UT Report for new Designs |
