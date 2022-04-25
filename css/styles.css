@@ -2,5 +2,17 @@
 .prose h2 > a,
 .prose h3 > a,
 .prose h4 > a {
-  @apply text-inherit no-underline font-semibold;
+  @apply font-semibold text-inherit no-underline;
+}
+
+.prose p {
+  @apply mb-1;
+}
+
+.prose p + * {
+  @apply mt-5;
+}
+
+.prose p + table {
+  @apply mt-1;
 }
