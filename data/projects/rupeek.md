@@ -15,7 +15,7 @@ images:
 
 ### My Role
 
-An overview of my responsibilities as a UXR at Rupeek - an asset backed lending platform.
+An overview of my responsibilities as a UXR at - an asset backed lending platform.
 
 - To conduct problem & solution validation for various teams
 - To setup processes to align research practice with design sprints
@@ -25,7 +25,7 @@ An overview of my responsibilities as a UXR at Rupeek - an asset backed lending 
 
 ### Case Study 1
 
-Boosting conversion rates (159% ↑) for the landing page experience.
+Boosting conversion rates for the landing page experience.
 | | |
 | ------------ | -------------------------------------------------------------------------------------------- |
 | Teams | Design, Product, Marketing |
