@@ -15,7 +15,7 @@ images:
 
 ### My Role
 
-An overview of my responsibilities as a UXR at - an asset backed lending platform.
+An overview of my responsibilities as a UXR at an asset backed lending platform.
 
 - To conduct problem & solution validation for various teams
 - To setup processes to align research practice with design sprints
